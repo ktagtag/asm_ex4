@@ -33,6 +33,6 @@ Loop2:
      mov (%rdx), %rbx
      jmp Loop2
 .L3: 
-     call finis
+     call finish
 
        
